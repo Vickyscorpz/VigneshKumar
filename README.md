@@ -15,8 +15,8 @@
 - 💼 I'm looking for help with **Placements & Internships**
 - 💬 Ask me about **Tech, Projects, Career**
 - 📫 How to reach me:
-  - [Twitter](https://twitter.com/YOUR_USERNAME)
-  - [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+  - [Twitter](https://twitter.com/Vickyscorpz)
+  - [LinkedIn](https://linkedin.com/in/vigneshkumarv07)
 - 🔥 Fun fact: **I know Japanese! 🇯🇵**
 
 ---
