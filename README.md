@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner, coder, and builder from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://vickyscorpz.github.io/portfolio" target="_blank"><strong>👉 Visit My Portfolio</strong></a>
+  <a href="https://vickyscorpz.github.io/Portfolio" target="_blank"><strong>👉 Visit My Portfolio</strong></a>
 </p>
 
 <p align="center">
