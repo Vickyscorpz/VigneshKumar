@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Mr.Ferocious</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h1 align="center">Hi 👋, I'm Vigneshkumar V</h1>
+<h3 align="center">A passionate engineer & AI explorer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/mrferocious"><img src="https://komarev.com/ghpvc/?username=mrferocious&label=Profile%20views&color=0e75b6&style=flat" alt="mrferocious" /></a>
+  <a href="https://github.com/mrferocious">
+    <img src="https://komarev.com/ghpvc/?username=mrferocious&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
   <a href="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social" />
+    <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social" />
   </a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
-- 🤖 I'm looking to collaborate on **AI/ML Projects**
-- 💼 I'm looking for help with **Placements & Internships**
-- 💬 Ask me about **Tech, Projects, Career**
+- 🌱 Currently learning **Data Structures and Algorithms (DSA)**
+- 🤖 Exploring AI/ML Projects & Real-world IoT Automation
+- 💼 Actively working towards a **High-Paying Tech Placement**
+- 💬 Ask me about **Tech, Projects, Career Prep, and AI Systems**
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/Vickyscorpz)
   - [LinkedIn](https://linkedin.com/in/vigneshkumarv07)
-- 🔥 Fun fact: **I know Japanese! 🇯🇵**
+- 🧠 Fun fact: **I’m also learning Japanese! 🇯🇵**
 
 ---
 
@@ -57,11 +59,13 @@
 
 ---
 
+
 ### ⚙️ Workspace Specs:
-- 💻 **MacBook / Windows 11**
-- 💪 **NVIDIA GTX1650**
-- 🔧 **AMD Ryzen 5 1600H**
-- 🖥️ **VS Code, Chrome, Terminal, Git**
+- 🔧 **Processor**: AMD Ryzen 7 7840HS @ 3.80 GHz
+- 🎮 **GPU**: Radeon 780M Graphics
+- 🧠 **RAM**: 16 GB (15.3 GB usable)
+- 🧱 **System Type**: 64-bit OS, x64-based processor
+- 🖥️ **Preferred Tools**: VS Code, Git, Chrome, Python, Notion, Figma
 
 ---
 
@@ -78,5 +82,4 @@ Check out my work 👉 [My Portfolio](https://your-portfolio-link.com)
 
 ---
 
-> 🔥 Stay consistent, stay curious, and let your GitHub tell your story.
-
+> 🔥 _"Stay focused. Stay consistent. Your code is your character."_ — Vigneshkumar V
